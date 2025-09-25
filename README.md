@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/31tpeukpy4jrjccwoptkto4ih6qe?si=380926f64ff94d5d">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
@@ -56,7 +56,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Benny-debian&custom_title=Benny%20debian's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ------
 
