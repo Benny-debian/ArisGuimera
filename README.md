@@ -3,8 +3,7 @@
 </h1>
 
 Hello there! I'm Benjamin Tovar, a computer science student currently living in Aragua, Venezuela. I'm preparing for 
-the software developer world!!!, 
-and learning programming through small projects  on the side.
+the software developer world!!!, and learning programming through small projects  on the side.
 
 <br>
 
@@ -56,9 +55,9 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
+<!--
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Benny-debian&custom_title=Benny%20debian's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
+-->
 ------
 
 Credit: [abhigyantrips](https://github.com/abhigyantrips)
